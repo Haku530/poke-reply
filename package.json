@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-poke-reply",
   "description": "戳一戳随机回复，有概率触发戳回去",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
